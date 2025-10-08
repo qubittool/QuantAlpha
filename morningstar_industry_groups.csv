@@ -1,0 +1,51 @@
+﻿ID,英文名称,中文名称,所属Sector
+10110,Agricultural Inputs,农业投入品,Basic Materials
+10130,Building Materials,建筑材料,Basic Materials
+10140,Chemicals,化学品,Basic Materials
+10150,Specialty Chemicals,特种化学品,Basic Materials
+10160,Lumber & Wood Production,木材与木材生产,Basic Materials
+10200,Apparel Manufacturing,服装制造,Consumer Cyclical
+10220,Auto Manufacturers,汽车制造商,Consumer Cyclical
+10240,Footwear & Accessories,鞋类与配件,Consumer Cyclical
+10250,"Furnishings, Fixtures & Appliances",家具、固定装置与家电,Consumer Cyclical
+10260,Gambling,博彩业,Consumer Cyclical
+10270,Home Improvement Retail,家装零售,Consumer Cyclical
+10280,Internet Retail,网络零售,Consumer Cyclical
+10290,Leisure,休闲娱乐,Consumer Cyclical
+10310,Lodging,住宿服务,Consumer Cyclical
+10320,Luxury Goods,奢侈品,Consumer Cyclical
+10330,Packaging & Containers,包装与容器,Consumer Cyclical
+10340,Personal Services,个人服务,Consumer Cyclical
+10350,Publishing,出版业,Consumer Cyclical
+10410,Real Estate Services,房地产服务,Real Estate
+10420,Real Estate Development,房地产开发,Real Estate
+20510,Beverages - Brewers,饮料-酿酒商,Consumer Defensive
+20525,Beverages - Non-Alcoholic,非酒精饮料,Consumer Defensive
+20540,Confectioners,糖果制造商,Consumer Defensive
+20550,Farm Products,农产品,Consumer Defensive
+20560,Farm & Heavy Construction Machinery,农用与重型工程机械,Consumer Defensive
+20610,Diagnostics & Research,诊断与研究,Healthcare
+20620,Drug Manufacturers - General,药品制造商-综合,Healthcare
+20630,Drug Manufacturers - Specialty & Generic,药品制造商-专科与仿制药,Healthcare
+20645,Health Information Services,健康信息服务,Healthcare
+20650,Medical Care Facilities,医疗护理机构,Healthcare
+20660,Medical Devices,医疗设备,Healthcare
+20670,Medical Distribution,医疗分销,Healthcare
+20710,Utilities - Independent Power Producers,公用事业-独立发电商,Utilities
+20720,Utilities - Renewable,公用事业-可再生能源,Utilities
+30810,Telecom Services,电信服务,Communication Services
+30820,Advertising Agencies,广告代理,Communication Services
+30830,Broadcasting,广播,Communication Services
+30910,Oil & Gas Drilling,石油与天然气钻探,Energy
+30920,Oil & Gas E&P,石油与天然气勘探与生产,Energy
+31010,Aerospace & Defense,航空航天与国防,Industrials
+31020,Airports & Air Services,机场与航空服务,Industrials
+31030,Building Products & Equipment,建筑产品与设备,Industrials
+31040,Business Equipment & Supplies,商业设备与用品,Industrials
+31050,Conglomerates,综合企业,Industrials
+31070,Electrical Equipment & Parts,电气设备与零件,Industrials
+31080,Engineering & Construction,工程与建筑,Industrials
+31090,Farm & Construction Machinery,农用与工程机械,Industrials
+31110,Industrial Distribution,工业分销,Industrials
+31120,Infrastructure Operations,基础设施运营,Industrials
+31130,Marine Shipping,海洋运输,Industrials
